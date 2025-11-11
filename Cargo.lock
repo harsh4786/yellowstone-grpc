@@ -5271,3 +5271,83 @@ dependencies = [
  "cc",
  "pkg-config",
 ]
+
+[[patch.unused]]
+name = "solana-account-decoder"
+version = "2.0.0"
+source = "git+https://github.com/anza-xyz/agave?rev=16de8b75ebcd57022409b422de557dd37b1de8db#16de8b75ebcd57022409b422de557dd37b1de8db"
+
+[[patch.unused]]
+name = "solana-client"
+version = "2.0.0"
+source = "git+https://github.com/anza-xyz/agave?rev=16de8b75ebcd57022409b422de557dd37b1de8db#16de8b75ebcd57022409b422de557dd37b1de8db"
+
+[[patch.unused]]
+name = "solana-connection-cache"
+version = "2.0.0"
+source = "git+https://github.com/anza-xyz/agave?rev=16de8b75ebcd57022409b422de557dd37b1de8db#16de8b75ebcd57022409b422de557dd37b1de8db"
+
+[[patch.unused]]
+name = "solana-metrics"
+version = "2.0.0"
+source = "git+https://github.com/anza-xyz/agave?rev=16de8b75ebcd57022409b422de557dd37b1de8db#16de8b75ebcd57022409b422de557dd37b1de8db"
+
+[[patch.unused]]
+name = "solana-net-utils"
+version = "2.0.0"
+source = "git+https://github.com/anza-xyz/agave?rev=16de8b75ebcd57022409b422de557dd37b1de8db#16de8b75ebcd57022409b422de557dd37b1de8db"
+
+[[patch.unused]]
+name = "solana-program"
+version = "2.0.0"
+source = "git+https://github.com/anza-xyz/agave?rev=16de8b75ebcd57022409b422de557dd37b1de8db#16de8b75ebcd57022409b422de557dd37b1de8db"
+
+[[patch.unused]]
+name = "solana-pubsub-client"
+version = "2.0.0"
+source = "git+https://github.com/anza-xyz/agave?rev=16de8b75ebcd57022409b422de557dd37b1de8db#16de8b75ebcd57022409b422de557dd37b1de8db"
+
+[[patch.unused]]
+name = "solana-quic-client"
+version = "2.0.0"
+source = "git+https://github.com/anza-xyz/agave?rev=16de8b75ebcd57022409b422de557dd37b1de8db#16de8b75ebcd57022409b422de557dd37b1de8db"
+
+[[patch.unused]]
+name = "solana-rpc-client"
+version = "2.0.0"
+source = "git+https://github.com/anza-xyz/agave?rev=16de8b75ebcd57022409b422de557dd37b1de8db#16de8b75ebcd57022409b422de557dd37b1de8db"
+
+[[patch.unused]]
+name = "solana-rpc-client-api"
+version = "2.0.0"
+source = "git+https://github.com/anza-xyz/agave?rev=16de8b75ebcd57022409b422de557dd37b1de8db#16de8b75ebcd57022409b422de557dd37b1de8db"
+
+[[patch.unused]]
+name = "solana-sdk"
+version = "2.0.0"
+source = "git+https://github.com/anza-xyz/agave?rev=16de8b75ebcd57022409b422de557dd37b1de8db#16de8b75ebcd57022409b422de557dd37b1de8db"
+
+[[patch.unused]]
+name = "solana-streamer"
+version = "2.0.0"
+source = "git+https://github.com/anza-xyz/agave?rev=16de8b75ebcd57022409b422de557dd37b1de8db#16de8b75ebcd57022409b422de557dd37b1de8db"
+
+[[patch.unused]]
+name = "solana-thin-client"
+version = "2.0.0"
+source = "git+https://github.com/anza-xyz/agave?rev=16de8b75ebcd57022409b422de557dd37b1de8db#16de8b75ebcd57022409b422de557dd37b1de8db"
+
+[[patch.unused]]
+name = "solana-tpu-client"
+version = "2.0.0"
+source = "git+https://github.com/anza-xyz/agave?rev=16de8b75ebcd57022409b422de557dd37b1de8db#16de8b75ebcd57022409b422de557dd37b1de8db"
+
+[[patch.unused]]
+name = "solana-transaction-status"
+version = "2.0.0"
+source = "git+https://github.com/anza-xyz/agave?rev=16de8b75ebcd57022409b422de557dd37b1de8db#16de8b75ebcd57022409b422de557dd37b1de8db"
+
+[[patch.unused]]
+name = "solana-udp-client"
+version = "2.0.0"
+source = "git+https://github.com/anza-xyz/agave?rev=16de8b75ebcd57022409b422de557dd37b1de8db#16de8b75ebcd57022409b422de557dd37b1de8db"
